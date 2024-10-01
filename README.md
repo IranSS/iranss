@@ -1,25 +1,10 @@
-## 👋 Welcome to my GitHub profile!
+### 👋 Welcome to my GitHub profile!
 
 🌱 I’m currently learning: I am working on improving my skills with Spring Boot by developing personal projects and studying web development with JavaScript, HTML, and CSS. 
 
-<!--
-**IranSS/iranss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
- ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
- ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ![Iran Sousa GitHub stats](https://github-readme-stats.vercel.app/api?username=iranss&show_icons=true&theme=github_dark)
 
-## Technologies
+### Technologies
   ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=FFFFFF)
   ![SpringSecurity](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=FFFFFF)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF&logoSize=auto&labelColor=White)
@@ -28,7 +13,5 @@ Here are some ideas to get you started:
   ![Css](https://img.shields.io/badge/Css3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF)
   ![Static Badge](https://img.shields.io/badge/dotnet-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=FFFFFF)
 
-
-## 📫 How to reach me: 
+### 📫 How to reach me: 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/iranildosousa/)
-

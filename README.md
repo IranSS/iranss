@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 
 
 ## 📫 How to reach me: 
-![Linkedin](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Firanildosousa%2F)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/iranildosousa/)
 

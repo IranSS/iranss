@@ -1,23 +1,18 @@
 ### 👋 Welcome to my GitHub profile!
 
-🌱 I’m currently improving my skills by building CRUD applications with Spring Boot and implementing frontends using React through personal projects.
-
-![Iran Sousa GitHub stats](https://github-readme-stats.vercel.app/api?username=iranss&show_icons=true&theme=github_dark)
+Backend Developer specialized in building robust and scalable applications using Java and Spring Boot.
+My work focuses on RESTful APIs, database integration, clean architecture, and software best practices.
 
 ### Technologies
   ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=FFFFFF)
-  ![SpringSecurity](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=FFFFFF)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=606060&logoSize=auto&labelColor=White)
   ![Html](https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
   ![Css](https://img.shields.io/badge/Css3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![dotnet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF&logoSize=auto&labelColor=White)
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
 ### 📫 How to reach me: 

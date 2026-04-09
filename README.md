@@ -15,5 +15,6 @@ My work focuses on RESTful APIs, database integration, clean architecture, and s
   ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
 
-### 📫 How to reach me: 
+### 🌐 Connect with me
 [![Linkedin](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/iranildosousa/)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@IranildoSousa-dev)
